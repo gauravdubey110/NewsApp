@@ -14,6 +14,6 @@ Some of the key features of this news website:-
 4. GlobalNews website also provides users with the source and time of news along with the name of the publisher of the news.
 
 Technology used:- 
-Front End:- Reactjs, HTML, CSS, Bootstrap.
-Programming Language used:- JavaScript
-API :- API From newsapi.org
+Front End - Reactjs, HTML, CSS, Bootstrap.
+Programming Language used - JavaScript.
+API - API From newsapi.org.
